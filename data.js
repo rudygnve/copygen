@@ -1,32 +1,27 @@
 export const data = [
   {
-    question: "What is a copy?",
+    question: "How does an AI content generator work?",
     answer:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit.Voluptatum quisquam sit, earum magnam quibusdam officiarecusandae placeat! Qui, debitis est.",
+      "AI content generators utilize advanced algorithms to analyze data, generate human-like text, and provide customizable content options.",
   },
   {
-    question: "What is a copy?",
+    question: " Can AI content generators write in different styles and tones?",
     answer:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit.Voluptatum quisquam sit, earum magnam quibusdam officiarecusandae placeat! Qui, debitis est.",
+      "Yes, AI content generators can mimic various styles and tones, allowing users to generate content tailored to their specific needs and target audience.",
   },
   {
-    question: "What is a copy?",
+    question: "Are the generated AI content pieces plagiarism-free?",
     answer:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit.Voluptatum quisquam sit, earum magnam quibusdam officiarecusandae placeat! Qui, debitis est.",
+      "Yes, AI content generators create original content. However, it's essential to review and verify the generated text to ensure compliance with ethical standards.",
   },
   {
-    question: "What is a copy?",
+    question: " Can AI content generators improve over time?",
     answer:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit.Voluptatum quisquam sit, earum magnam quibusdam officiarecusandae placeat! Qui, debitis est.",
+      "Absolutely! AI content generators employ machine learning techniques, continuously learning from user feedback to enhance their capabilities and produce higher-quality content.",
   },
   {
-    question: "What is a copy?",
+    question: "How can AI-generated content benefit businesses and individuals?",
     answer:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit.Voluptatum quisquam sit, earum magnam quibusdam officiarecusandae placeat! Qui, debitis est.",
-  },
-  {
-    question: "What is a copy?",
-    answer:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit.Voluptatum quisquam sit, earum magnam quibusdam officiarecusandae placeat! Qui, debitis est.",
+      "AI-generated content saves time and effort, enabling businesses and individuals to create engaging content, increase productivity, and meet their content creation needs efficiently.",
   },
 ];
